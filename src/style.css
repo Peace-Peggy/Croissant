@@ -1,3 +1,29 @@
 body{
   background-color: #c8b3fa;
 }
+h1,
+p {
+  text-align: center;
+}
+
+.page-photo {
+  align-items  : center;
+  max-width    : 100%;
+  border-radius: 10px;
+  display      : block;
+  margin       : 30px auto;
+}
+
+header {
+  text-align: center;
+}
+
+header a {
+  margin         : 0 10px;
+  color          : rgb(89, 61, 248);
+  text-decoration: none;
+  list-style     : none;
+}
+header ul li{
+  list-style: none;
+}
